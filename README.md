@@ -39,7 +39,7 @@ We looped over all possible combinations of the parameters of interest and evalu
 
 We then selected the parameter combination that yielded the best performance for each type of algorithm, and then applied it to the test set for the final evaluation.
 
-![Results](algos_training_test.png)
+![Results](algos_training_test.png) 
 
 
    
